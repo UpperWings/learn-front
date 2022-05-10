@@ -2,6 +2,13 @@
 
 Projeto criado para o aprendizado e pratica de desenvolvimento web.
 
+## Objetivo: Criação de aplicação web 
+
+### Funcionalidades
+- login
+- casdastro
+- á definir 
+
 Tec Utilizadas
 
 html, css, e javascript -> front
